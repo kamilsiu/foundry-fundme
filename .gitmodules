@@ -1,0 +1,15 @@
+[submodule "Desktop/Foundry/foundry-simple-storage/lib/forge-std"]
+	path = Desktop/Foundry/foundry-simple-storage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Desktop/Foundry/foundry-fund-me/lib/forge-std"]
+	path = Desktop/Foundry/foundry-fund-me/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Desktop/Foundry/foundry-fund-me/lib/chainlink"]
+	path = Desktop/Foundry/foundry-fund-me/lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+[submodule "Desktop/Foundry/foundry-fund-me/lib/chainlink-brownie-contracts"]
+	path = Desktop/Foundry/foundry-fund-me/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Desktop/Foundry/foundry-fund-me/lib/foundry-devops"]
+	path = Desktop/Foundry/foundry-fund-me/lib/foundry-devops
+	url = https://github.com/ChainAccelOrg/foundry-devops
